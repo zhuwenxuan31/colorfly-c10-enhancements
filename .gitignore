@@ -1,0 +1,14 @@
+/inputs/
+/outputs/
+**/build/
+**/__pycache__/
+**/venv/
+*.bin
+*.ko
+*.dge
+*.elf
+*.o
+*.wav
+*.flac
+*.zip
+.DS_Store
